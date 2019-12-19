@@ -1,0 +1,76 @@
+{
+    "name": "SurveyGizmo",
+    "description": "Advanced (but easy to use) online survey software tool that comes with amazing customer service, every survey feature you can imagine and an open API",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/490-surveygizmo.jpg",
+    "tags": [
+        "have api",
+        "surveys"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/surveygizmo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SurveyGizmo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/490-surveygizmo.jpg",
+            "humanURL": "http:\/\/www.surveygizmo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/surveygizmo-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/surveygizmo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.surveygizmo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.surveygizmo.com\/survey-blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.surveygizmo.com\/survey-blog\/category\/surveygizmo-blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/surveygizmo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/surveygizmo"
+        },
+        {
+            "type": "Email",
+            "url": "billing@surveygizmo.com"
+        },
+        {
+            "type": "Email",
+            "url": "compliance@surveygizmo.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@surveygizmo.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SurveyGizmo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/surveygizmo"
+        }
+    ]
+}
